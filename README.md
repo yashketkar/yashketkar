@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Prime Video [@amzn](https://github.com/amzn).
 - 🌱 I’m currently learning Kotlin and AWS Cloud.
 - 👯 I’m looking to collaborate on Projects and Hackathons.
 - 🤔 I’m looking for help with project ideas.
