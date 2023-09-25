@@ -1,9 +1,8 @@
-### Hi there 👋
+Hey there :wave:
 
-- 🌱 I’m currently learning Kotlin and AWS Cloud.
-- 👯 I’m looking to collaborate on Projects and Hackathons.
-- 🤔 I’m looking for help with project ideas.
-- 💬 Ask me about anything.
-- 📫 How to reach me: Twitter :bird: [@yashketkar](https://twitter.com/yashketkar).
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: My patronus is a Husky.
+I'm Yash Ketkar. I'm a software engineer and currently working on Prime Video at Amazon.
+
+Reach out to me at yash@yashketkar.com
+
+### Visitor count
+![](https://komarev.com/ghpvc/?username=yashketkar)
